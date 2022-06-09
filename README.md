@@ -1,6 +1,6 @@
-# Infinte borders
+# Infinite borders
 
-If you are a game lover of Infinte Borders,this program will be the best way that record your warriors and teams,there have more than 120 warriors including all most all warriors about Infinte Borders.
+If you are a game lover of Infinite Borders,this program will be the best way that record your warriors and teams,there have more than 120 warriors including all most all warriors about Infinite Borders.
 
 #### Project setup
 ```
